@@ -1,2 +1,2 @@
 # respond-ss
-Respond Self-serve
+Respond Self-serve Resources
